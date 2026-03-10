@@ -1,6 +1,16 @@
 # Network Intrusion Detection System Using Scapy
 
-A Python-based Network Intrusion Detection System (NIDS) that monitors real-time network traffic for suspicious patterns and anomalies using the Scapy library. This tool is customizable with user-defined rules for detecting specific network activities.
+A Network Intrusion Detection System (NIDS) is used to monitor network traffic and identify 
+potential security threats such as attacks, unauthorized access, or suspicious behavior. With the 
+increasing use of the internet, network security has become very important. This project 
+focuses on building a basic NIDS that can analyze packets and generate alerts using Python. 
+ 
+The main objectives of this project are: 
+• To capture live network packets 
+• To analyze TCP and UDP traffic 
+• To detect suspicious packets using rules 
+• To generate alerts for possible intrusions 
+• To provide a user-friendly GUI for monitoring 
 
 ## Installation
 
